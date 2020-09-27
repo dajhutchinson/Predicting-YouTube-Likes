@@ -2,8 +2,8 @@
 
 **Table of Contents**
 - [The Task](#The-Task)
-- [Summary of Results](#Summary of Results)
-- [Guide to Project](#Guide to Project)
+- [Summary of Results](#Summary-of-Results)
+- [Guide to Project](#Guide-to-Project)
   - [The Data](#The-Data)
 
 ## The Task
